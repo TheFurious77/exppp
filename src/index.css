@@ -1,0 +1,11 @@
+body {
+  margin: 0;
+  font-family: 'Arial', 'Verdana', 'Tahoma', 'Geneva', 'Lucida Sans', 'Helvetica', 'Trebuchet MS', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  scrollbar-width: none;
+}
+
+code {
+  font-family: 'Courier', 'Courier New', 'Lucida Console', 'Monaco', 'Bitstream Vera Sans Mono', monospace;
+}
